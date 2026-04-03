@@ -1,1 +1,1 @@
-# supply-chain-blogs
+# supply-chain-articles
